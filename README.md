@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment Analysis
 Sentiment Analysis of IMDB reviews using NLP and ML models(DecisionTree and Naive Bayes)
 
 # Problem Statement 
